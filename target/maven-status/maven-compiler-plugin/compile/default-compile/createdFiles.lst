@@ -1,0 +1,11 @@
+com\example\wastepickup\service\WastePickupServiceInterface.class
+com\example\wastepickup\controller\WastePickupEditController.class
+com\example\wastepickup\repository\WastePickupRepository.class
+com\example\wastepickup\controller\WastePickupDeleteController.class
+com\example\wastepickup\model\WastePickup.class
+com\example\wastepickup\controller\WastePickupCreateController.class
+com\example\wastepickup\WastePickupApplication.class
+com\example\wastepickup\controller\WastePickupViewController.class
+com\example\wastepickup\controller\HomeController.class
+com\example\wastepickup\service\FilteredWastePickupServiceImpl.class
+com\example\wastepickup\service\WastePickupService.class
