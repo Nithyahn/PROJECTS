@@ -13,7 +13,7 @@ Developed a Flutter-based app for puberty support, integrating:
 -  Nutritional food shopping
 -  Menstrual cycle tracking
 -  Expert consultations
--  Region-specific food recommendations
+-  Region-specific food recommendations(for now only for Karnataka)
 -  Symptom logging and personalized suggestions
 -  Community support and educational resources
 
