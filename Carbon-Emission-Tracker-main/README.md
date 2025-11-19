@@ -26,3 +26,5 @@ python app.py
 3️⃣ Database Setup
 Create a MySQL database:
 CREATE DATABASE carbon_tracker;
+
+ipcc:  https://www.ipcc-nggip.iges.or.jp/EFDB/find_ef.php?ipcc_code=1&ipcc_level=0
